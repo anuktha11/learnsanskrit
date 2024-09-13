@@ -61,7 +61,7 @@ function App() {
       <footer className="footer">
         <h4>Contact Us</h4>
         <div className="social-icons"> 
-          <a href="https://wa.me/918921451177" target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/919442533967" target="_blank" rel="noopener noreferrer">
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" />
           </a>
           <a href="https://www.facebook.com/profile.php?id=61565807485427&mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer">
@@ -72,7 +72,7 @@ function App() {
           </a>
           {/* <a href="tel:+918921451177">call</a> */}
          </div>
-        <p>  call: +918921451177</p>
+        <p>  call: +919442533967</p>
       </footer>
     </div>
   );
